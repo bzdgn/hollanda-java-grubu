@@ -3,6 +3,8 @@ TOC
 - [0 Merhaba](#0-merhaba) <br/>
 - [1 Grubun Amacı](#1-grubun-amacı) <br/>
 - [2 Etkileşime Dair](#2-etkileşime-dair) <br/>
+- [3 Proje Linkleri](#3-proje-linkleri)  <br/>
+
 
  0 Merhaba
 ----------
@@ -21,6 +23,7 @@ Son olarak, çoğumuzun client-developer olarak çalıştığını varsayıyorum
 
 [TOC](#toc)
 
+
  1 Grubun Amacı
 ---------------
 
@@ -31,6 +34,7 @@ Son olarak, çoğumuzun client-developer olarak çalıştığını varsayıyorum
 - Library, framework ve mimarilere dair örnek projeler
 - Beraber sıfırdan yazabileceğimiz örnek projeler
 - Bilgi eksiği olan grup üyelerine yardım ve bilgi paylaşımı
+
 
 [TOC](#toc)
 
@@ -44,4 +48,22 @@ Bence kimse bir şeyi sormaktan çekinmemeli. "Şunu sorarsam senior java'cı bu
 
 Bu sebeplerle birbirimize karşı olabildiğince açık olursak ve nezakete dikkat edersek, gruptan oldukça verimli bir şekilde faydanalabiliriz. Bu kadar söz fazla bile, herkese merhaba!
 
+
 [TOC](#toc)
+
+
+ 3 Proje Linkleri
+-----------------
+
+Grupta konuşulan her framework, library, mimari ya da konuya dair, eğer varsa boilerplate ya da örnek proje yapmanın, konuları teoriden çıkarıp pratiğe dökmenin öğrenme için faydalı olacağına inanıyorum.
+
+Bu kısmı bu yüzden ekledim. Bir arkadaşımız OpenAPI üzerine soru sorunca, örnek bir proje gerekti. Daha sonraki konuşulan şeyler için de bu kısımdan konulara dair örnek proje linklerini buradan paylaşalım;
+
+| library, framework ya da konu | proje linki |
+| ----------------------------- | ----------- |
+| OpenAPI Web Service örneği    | https://github.com/bzdgn/open-api-web-service-example/ |
+
+
+[TOC](#toc)
+
+
