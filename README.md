@@ -4,7 +4,7 @@ TOC
 - [1 Grubun Amacı](#1-grubun-amacı) <br/>
 - [2 Etkileşime Dair](#2-etkileşime-dair) <br/>
 - [3 Proje Linkleri](#3-proje-linkleri)  <br/>
-- [4 Tartışma Konuları ve Olası Proje Listesi](4-tartışma-konuları-ve-olası-proje-listesi) <br/>
+- [4 Tartışma Konuları ve Olası Proje Listesi](#4-tartışma-konuları-ve-olası-proje-listesi) <br/>
 
 
  0 Merhaba
