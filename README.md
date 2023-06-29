@@ -76,7 +76,7 @@ Bu kısımda ileride yapılabilecek örnek proje ve tartışma konularını ekli
 1. Relational Database implementasyonu (https://link.springer.com/book/10.1007/978-3-030-33836-7)
 2. Karmaşık SQL query'ler
 3. Database'de Partition, Clustering
-4. Retry Logic, Http requestlerde hata Exception Handling ve retry mekanizması
+4. Retry Logic, HTTP requestlerde hata Exception Handling ve retry mekanizması
 5. Advanced Search yani Spring Data ve Filter API
 6. Hateoas'a uygun RESTful web service
 7. HTTP Mock, SOAP UI, Mock Server ve bu açıdan unit/integration testler
